@@ -1,1 +1,1 @@
-print('Natan')
+print ('Natan')
